@@ -1,0 +1,39 @@
+Open terminal:
+
+# Open terminal and navigate to the frontend directory
+cd ./Frontend/
+
+# Start the frontend server
+npm run dev
+
+
+# Open terminal and navigate to the backend directory
+cd ./Backend/
+
+# Start the Backend server
+npm start
+
+# Start Postman API also to run the project along with MongoDb having database name bookstore.
+# Ctrl + c to stop the terminal.
+
+
+
+
+Package npm i nodemon is installed to restart the server automatically so we don't have to refresh.
+
+React Hook:-
+
+Hooks are functions in react that allow us to manage state , do changes as per the state , and other React features without using class components. They provide a way to reuse stateful logic across components.
+
+1) useState() :- It is used to manage and update state , while
+
+2) useEffect() :- The useEffect hook is used for handling side effects during component mount , update and unmount.
+
+React Hook forms are used to stop user without filing login or signup details in this website.
+
+React Props:-
+
+In React , "props" (properties) are a way to pass data from a parent company to a child component.
+Props allows , components to be dynamic and flexible , once they receive different data and render accordingly.
+
+For Backend we use "Promises concept of JavaScript"
